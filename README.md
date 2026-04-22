@@ -5,7 +5,7 @@ A dedicated and detail-oriented aspiring **Full Stack (MERN) Developer**, skille
 
 I enjoy creating real-world applications, solving problems, and continuously improving my development skills. Looking forward to building impactful software and growing as a professional developer.
 
----
+<hr>
 
 <table>
 <tr>
