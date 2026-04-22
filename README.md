@@ -1,4 +1,4 @@
-![Banner](https://github.com/kranthi7581/kranthi7581/blob/main/title.mp4)
+![Banner](https://github.com/kranthi7581/kranthi7581/blob/main/kranthi%20Kumar%20akula.gif)
 # Hi, 👋 I'm Kranthi Kumar Akula  
 ### A passionate MERN Stack Developer 🚀  
 
