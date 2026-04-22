@@ -18,7 +18,7 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 ◦ 🌱 I am currently learning **Advanced Backend & System Design**  
 ◦ 💬 Ask me about **MongoDB, Express, React, Node.js, JavaScript**  
 ◦ 🔭 I'm looking for opportunities as a **MERN Stack Developer (Fresher / Entry-Level)**  
-◦ 📧 Reach me at **your-email@example.com**  
+◦ 📧 Reach me at **kranthikumarakula16@gmail.com**  
 ◦ ⚡ Fun fact: I love debugging and building real-world projects  
 
 
