@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://github.com/kranthi7581/kranthi7581/blob/main/title.mp4)
 # Hi, 👋 I'm Kranthi Kumar Akula  
 ### A passionate MERN Stack Developer 🚀  
 
