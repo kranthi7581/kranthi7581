@@ -6,7 +6,7 @@ A dedicated and detail-oriented aspiring **Full Stack (MERN) Developer**, skille
 
 I enjoy creating real-world applications, solving problems, and continuously improving my development skills. Looking forward to building impactful software and growing as a professional developer.
 
----
+
 
 <table>
 <tr>
@@ -31,7 +31,6 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 </tr>
 </table>
 
----
 
 ## 🌐 Let's Connect:
 
@@ -55,7 +54,7 @@ I enjoy creating real-world applications, solving problems, and continuously imp
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45"/>
 </p>
 
----
+
 
 ## 🚀 Projects:
 
@@ -65,7 +64,7 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 - ⚙️ **ChotaBeta Backend API**  
   👉 https://chotabeta-backend-1.onrender.com  
 
----
+
 
 ## 🏆 Achievements:
 
@@ -73,18 +72,18 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 - ✔️ Hands-on experience in REST API development  
 - ✔️ Strong understanding of authentication & backend logic  
 
----
+
 
 ## 📈 GitHub Stats:
 
 ![Kranthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kranthi7581&show_icons=true&theme=radical)
 
----
+
 
 ## 🔥 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kranthi7581&layout=compact&theme=radical)
 
----
+
 
 ⭐ *"Code. Learn. Build. Repeat."*
