@@ -34,9 +34,9 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 
 ## 🌐 Let's Connect:
 
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 💼 LinkedIn: https://www.linkedin.com/in/kranthikumar-akula-515b37325?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🧑‍💻 GitHub: https://github.com/kranthi7581  
-- 📧 Email: your-email@example.com  
+- 📧 Email: kranthikumarakula16@gmail.com  
 
 
 
