@@ -25,7 +25,7 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 
 <td width="50%">
 
-<img src="https://github.com/your-username/repo-name/blob/main/image.png" width="100%"/>
+<img src="https://github.com/kranthi7581/kranthi7581/blob/main/aim.png" width="100%"/>
 </td>
 </tr>
 </table>
