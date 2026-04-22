@@ -7,6 +7,10 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 
 ---
 
+<table>
+<tr>
+<td width="50%">
+
 ## 💻 About Me
 
 ◦ 💻 I am currently working on **MERN Stack Projects**  
@@ -15,6 +19,17 @@ I enjoy creating real-world applications, solving problems, and continuously imp
 ◦ 🔭 I'm looking for opportunities as a **MERN Stack Developer (Fresher / Entry-Level)**  
 ◦ 📧 Reach me at **your-email@example.com**  
 ◦ ⚡ Fun fact: I love debugging and building real-world projects  
+
+
+</td>
+
+<td width="50%">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
