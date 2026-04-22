@@ -1,3 +1,4 @@
+![Banner]()
 # Hi, 👋 I'm Kranthi Kumar Akula  
 ### A passionate MERN Stack Developer 🚀  
 
